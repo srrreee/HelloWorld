@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is AEC5-0A6B
+
+ Directory of C:\Users\harsh\Desktop\JavaProject1
+
+06/29/2021  02:09 PM    <DIR>          .
+06/29/2021  02:09 PM    <DIR>          ..
+06/29/2021  12:31 PM               422 Simple.class
+06/29/2021  12:22 PM               106 Simple.java
+06/29/2021  02:09 PM                 0 test1.txt
+               3 File(s)            528 bytes
+               2 Dir(s)   4,361,797,632 bytes free
